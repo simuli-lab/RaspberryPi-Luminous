@@ -1,4 +1,4 @@
-var SS = SpreadsheetApp.openById('1cL2vJqpo295wR0bwJgmZrNaWRDFJaIquRTFosBK5KtM');    //Enter Your Sheet ID Got From Sheet URL Link
+var SS = SpreadsheetApp.openById('<sheet id>');    //Enter Your Sheet ID Got From Sheet URL Link
 var sheet = SS.getSheetByName('Sheet1');      // Enter your sheet name here, In my case it is TempSheet
 var str = "";
 
